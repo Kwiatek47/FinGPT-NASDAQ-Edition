@@ -1,5 +1,7 @@
 # FinGPT-NASDAQ-Edition
 
+### Data Analytics and AI Engineering Project
+
 AI-Powered NASDAQ Analyzer [OpenAI]
 
 ---
@@ -25,4 +27,8 @@ We also use price change data to see how each company and sector performed durin
 
 ---
 
+## 🛠️ Technologies
 
+- Python
+- Pandas
+- OpenAI API (gpt-3.5-turbo)
