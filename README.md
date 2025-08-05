@@ -11,4 +11,18 @@ We also use price change data to see how each company and sector performed durin
 
 ---
 
+## 🎯 Goal
+
+1. Use the **OpenAI API** to classify each company into a sector like:
+   - Technology
+   - Healthcare
+   - Energy
+   - ...and others
+
+2. Add a new column `sector` to the company data.
+
+3. Analyze **how well each sector performed** this year (based on 1-year price change).
+
+---
+
 
